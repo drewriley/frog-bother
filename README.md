@@ -22,7 +22,7 @@
 
 
 
-- Similates a chat application where 4 users (yourself and three "henchmen") can send messages back and forth.
+- Simulates a chat application where 4 users (yourself and three "henchmen") can send messages back and forth.
 - No backend server component to post/get chat data (front end sample only).
 - To edit the starting chats open /js/app.js and modify the chats array.
 
