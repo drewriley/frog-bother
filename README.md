@@ -2,6 +2,7 @@
 - uses bootstrap.css 4.1.3
 - uses Vue.js v2.6.10
 - uses fontawesome.css v5.5.0
+- Adheres to Branded Cisco Color Guidelines
 
 ## Browse
 - http://drewriley.com/frog-bother
